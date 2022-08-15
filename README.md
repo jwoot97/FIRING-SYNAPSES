@@ -1,5 +1,6 @@
 # FIRING-SYNAPSES
-A repository for storing and revisiting practice code.  For problem URLs, see the README.
+A repository for storing and revisiting practice code.
+Problem URLs listed below.
 
 ### CODEWARS KATA & SOLUTIONS
 | Solution File | URL           |
