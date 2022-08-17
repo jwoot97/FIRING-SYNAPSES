@@ -10,3 +10,4 @@ Problem URLs listed below.
 | [listfilterer.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/listfilterer.cs) | https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/csharp |
 | [wordspinner.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/wordspinner.cs) | https://www.codewars.com/kata/5264d2b162488dc400000001/csharp |
 | [pairsplit.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/pairsplit.cs) | https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/csharp |
+| [tocamelcase.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/tocamelcase.cs) | https://www.codewars.com/kata/517abf86da9663f1d2000003/csharp |
