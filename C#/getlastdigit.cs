@@ -1,4 +1,4 @@
-// WIP
+// WIP - works for all cases where number isn't bigger than double
 
 namespace Solution
 {
