@@ -13,3 +13,4 @@ Problem URLs listed below.
 | [tocamelcase.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/tocamelcase.cs) | https://www.codewars.com/kata/517abf86da9663f1d2000003/csharp |
 | [getlastdigit.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/getlastdigit.cs) | https://www.codewars.com/kata/5511b2f550906349a70004e1/csharp |
 | [getanagrams.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/getanagrams.cs) | https://www.codewars.com/kata/523a86aa4230ebb5420001e1/csharp |
+| [rgbtohex.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/rgbtohex.cs) | https://www.codewars.com/kata/513e08acc600c94f01000001/csharp |
