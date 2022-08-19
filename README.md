@@ -14,3 +14,4 @@ Problem URLs listed below.
 | [getlastdigit.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/getlastdigit.cs) | https://www.codewars.com/kata/5511b2f550906349a70004e1/csharp |
 | [getanagrams.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/getanagrams.cs) | https://www.codewars.com/kata/523a86aa4230ebb5420001e1/csharp |
 | [rgbtohex.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/rgbtohex.cs) | https://www.codewars.com/kata/513e08acc600c94f01000001/csharp |
+| [encodedecode.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/encodedecode.cs) | https://www.codewars.com/kata/5ef9ca8b76be6d001d5e1c3e/csharp |
