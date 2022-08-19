@@ -18,3 +18,4 @@ Problem URLs listed below.
 | [findoddint.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/findoddint.cs) | https://www.codewars.com/kata/54da5a58ea159efa38000836/csharp |
 | [likes.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/likes.cs) | https://www.codewars.com/kata/5266876b8f4bf2da9b000362/csharp |
 | [arraydiff.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/arraydiff.cs) | https://www.codewars.com/kata/523f5d21c841566fde000009/csharp |
+| [buildphonenumber.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/buildphonenumber.cs) | https://www.codewars.com/kata/525f50e3b73515a6db000b83/csharp |
