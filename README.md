@@ -20,3 +20,4 @@ Problem URLs listed below.
 | [arraydiff.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/arraydiff.cs) | https://www.codewars.com/kata/523f5d21c841566fde000009/csharp |
 | [buildphonenumber.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/buildphonenumber.cs) | https://www.codewars.com/kata/525f50e3b73515a6db000b83/csharp |
 | [paginationhelper.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/paginationhelper.cs) | https://www.codewars.com/kata/515bb423de843ea99400000a/csharp |
+| [int32toipv4.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/int32toipv4.cs) | https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/csharp |
