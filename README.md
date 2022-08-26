@@ -24,3 +24,4 @@ Problem URLs listed below.
 | [validparentheses.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/validparentheses.cs)  | https://www.codewars.com/kata/52774a314c2333f0a7000688/csharp |
 | [timeformat.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/timeformat.cs)              | https://www.codewars.com/kata/52685f7382004e774f0001f7/csharp |
 | [durationformat.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/durationformat.cs)      | https://www.codewars.com/kata/52742f58faf5485cae000b9a/csharp |
+| [movezeroes.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/movezeroes.cs)              | https://www.codewars.com/kata/52597aa56021e91c93000cb0/csharp |
