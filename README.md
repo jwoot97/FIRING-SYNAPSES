@@ -3,8 +3,8 @@ A repository for storing and revisiting practice code.
 Problem URLs listed below.
 
 ### CODEWARS KATA & SOLUTIONS [ C# ]
-| Solution File | URL           |
-| ------------- |:--------------|
+| Solution File                                                                                         | URL           |
+| -------------                                                                                         |:--------------|
 | [multiplesof3or5.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/multiplesof3or5.cs)    | https://www.codewars.com/kata/514b92a657cdc65150000006/csharp |
 | [eureka.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/eureka.cs)                      | https://www.codewars.com/kata/5626b561280a42ecc50000d1/csharp |
 | [listfilterer.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/listfilterer.cs)          | https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/csharp |
@@ -25,3 +25,4 @@ Problem URLs listed below.
 | [timeformat.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/timeformat.cs)              | https://www.codewars.com/kata/52685f7382004e774f0001f7/csharp |
 | [durationformat.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/durationformat.cs)      | https://www.codewars.com/kata/52742f58faf5485cae000b9a/csharp |
 | [movezeroes.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/movezeroes.cs)              | https://www.codewars.com/kata/52597aa56021e91c93000cb0/csharp |
+| [ipvalidation.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/ipvalidation.cs)          | https://www.codewars.com/kata/515decfd9dcfc23bb6000006/csharp |
