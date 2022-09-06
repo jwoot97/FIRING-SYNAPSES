@@ -29,3 +29,4 @@ Problem URLs listed below.
 | [consecstrings.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/consecstrings.cs)        | https://www.codewars.com/kata/56a5d994ac971f1ac500003e/csharp |
 | [countdays.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/countdays.cs)                | https://www.codewars.com/kata/5837fd7d44ff282acd000157/csharp |
 | [collatz.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/collatz.cs)                    | https://www.codewars.com/kata/5286b2e162056fd0cb000c20/csharp |
+| [deadfish.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/deadfish.cs)                  | https://www.codewars.com/kata/51e0007c1f9378fa810002a9/csharp |
