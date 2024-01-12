@@ -27,3 +27,4 @@ Problem URLs listed below.
 | [movezeroes.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/movezeroes.cs)              | https://www.codewars.com/kata/52597aa56021e91c93000cb0/csharp |
 | [ipvalidation.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/ipvalidation.cs)          | https://www.codewars.com/kata/515decfd9dcfc23bb6000006/csharp |
 | [consecstrings.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/consecstrings.cs)        | https://www.codewars.com/kata/56a5d994ac971f1ac500003e/csharp |
+| [weight4weight.cs](https://github.com/jwoot97/FIRING-SYNAPSES/blob/main/C%23/weight4weight.cs)		| https://www.codewars.com/kata/55c6126177c9441a570000cc/csharp |
